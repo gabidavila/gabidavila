@@ -30,7 +30,7 @@ I have **Office Hours** to talk about Google Cloud and Databases. You can find m
 
 ### Congress Who Is?
 
-It's a Civic Tech project that needs a bit of updating, let me know if you want to help [congresswhois.com](congresswhois.com).
+It's a Civic Tech project that needs a bit of updating, let me know if you want to help [congresswhois.com](https://congresswhois.com).
 
 ### React USA Map - a US Map without using D3
 
